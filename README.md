@@ -1,2 +1,3 @@
 # detectPassenger
-Detecção de passageiros que estão descendo do ônibus, para evitar acidentes com a porta
+Detecção de passageiros que estão descendo do ônibus, para evitar acidentes com o fechamento da porta.
+
